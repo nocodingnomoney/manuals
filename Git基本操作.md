@@ -19,6 +19,10 @@
    ```shell
    $ git pull origin branchName
    ```
+4. 中文显示全是数字
+   ```shell
+   $ git config --global core.quotepath false
+   ```
 
 
-**重点: 关于实用的Git教程,我推荐[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+**重点: 关于实用的Git教程,我推荐[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)**
