@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,g,i,_(j,k),l,[m,n,o,p,q,r,s,t,u,v,w,x,y,z,A],B,_(C,D,E,F,G,H,I,_(),J,_(K,L,M,N,O,_(P,Q,R,S),T,null,U,N,V,N,W,X,Y,null,Z,ba,bb,bc,bd,be,bf,ba),bg,_(),bh,_(),bi,_(bj,[])),bk,_(),bl,_());}; 
+var b="url",c="介绍.html",d="generationDate",e=new Date(1542725317337.35),f="isCanvasEnabled",g=false,h="isAdaptiveEnabled",i="sketchKeys",j="",k="s0",l="variables",m="OnLoadVariable",n="Email",o="Verification",p="first",q="second",r="third",s="fourth",t="fifth",u="sixth",v="Read",w="UserName",x="Password",y="Team",z="URL",A="CurrentSpace",B="page",C="packageId",D="905bc597d50b471eb4af81c8d76a0ccf",E="type",F="Axure:Page",G="name",H="介绍",I="notes",J="style",K="baseStyle",L="627587b6038d43cca051c114ac41ad32",M="pageAlignment",N="near",O="fill",P="fillType",Q="solid",R="color",S=0xFFFFFFFF,T="image",U="imageHorizontalAlignment",V="imageVerticalAlignment",W="imageRepeat",X="auto",Y="favicon",Z="sketchFactor",ba="0",bb="colorStyle",bc="appliedColor",bd="fontName",be="Applied Font",bf="borderWidth",bg="adaptiveStyles",bh="interactionMap",bi="diagram",bj="objects",bk="masters",bl="objectPaths";
+return _creator();
+})());
